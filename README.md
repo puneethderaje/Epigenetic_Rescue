@@ -1,1 +1,1 @@
-This is the code for generating the figures in the manuscript \href{https://www.biorxiv.org/content/10.1101/2025.08.27.672696v1.abstract}{"Quasi epigenetic equilibrium and it's implications for evolutionary rescue"}
+This is the code for generating the figures in the manuscript ["Quasi epigenetic equilibrium and it's implications for evolutionary rescue"](https://www.biorxiv.org/content/10.1101/2025.08.27.672696v1.abstract)
